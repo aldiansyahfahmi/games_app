@@ -13,4 +13,4 @@ Rating Review : ★★★★★ (5 Stars)
 ## Preview
 
 <p align="left"> 
-<img src="https://github.com/aldiansyahfahmi/games_app/blob/main/assets/images/preview/home.png" width="250"> <img src="https://github.com/aldiansyahfahmi/games_app/blob/main/assets/images/preview/details.png" width="250">
+<img src="assets/preview/home.png" width="250"> <img src="assets/preview/details.png" width="250">
