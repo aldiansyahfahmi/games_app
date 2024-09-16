@@ -1,4 +1,4 @@
-# Submission Dicoding: Belajar Membuat Aplikasi Flutter untuk Pemula
+# Dicoding Submission : Belajar Membuat Aplikasi Flutter untuk Pemula
 
 Rating Review : ★★★★★ (5 Stars)
 
